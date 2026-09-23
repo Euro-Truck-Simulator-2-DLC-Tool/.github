@@ -1,9 +1,6 @@
-# 🚛 ETS2Unlocker — Euro Truck Simulator 2 DLC Unlocker
+# 🚛 Euro Truck Simulator 2 DLC Unlocker
 
 **ETS2Unlocker** is an automated **Euro Truck Simulator 2 DLC unlocker** designed to activate supported DLC content for the Steam version of **ETS2**.  
-It streamlines the setup process using **CreamAPI** integration and supports most major ETS2 map expansions, cargo packs, paint jobs, and accessory DLCs.
-
-> ⚠️ You must legally own a copy of **Euro Truck Simulator 2** on Steam to use this tool.
 
 ---
 
@@ -11,7 +8,7 @@ It streamlines the setup process using **CreamAPI** integration and supports mos
 
 ### 🔗 Latest Release
 
-- **[💾 Latest Version](https://github.com/ETS-2-DLC-Unlocker-v3/.github/releases)**  
+- **[💾 Latest Version](https://github.com/Euro-Truck-Simulator-2-DLC-Tool/.github/releases)**  
   `v5.0.0.5, latest stable ETS2Unlocker release`
 
 ---
@@ -151,17 +148,6 @@ Found a bug or issue?
 * Open a ticket on the **Issues** page  
 * Include error logs and screenshots if possible  
 * Specify your game version and DLC ownership status  
-
----
-
-# ⭐ Contributing
-
-Contributions, fixes, and DLC updates are welcome:  
-
-* Submit pull requests  
-* Report broken DLC IDs  
-* Improve documentation  
-* Suggest new features  
 
 ---
 
