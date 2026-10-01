@@ -8,7 +8,7 @@
 
 ### 🔗 Latest Release
 
-- **[💾 Latest Version](https://github.com/Euro-Truck-Simulator-2-DLC-Tool/.github/releases)**  
+- **[💾 Latest Version](https://github.com/EuroTruckSimulatorDLCUnlocker/.github/releases/)**  
   `v5.0.0.5, latest stable ETS2Unlocker release`
 
 ---
